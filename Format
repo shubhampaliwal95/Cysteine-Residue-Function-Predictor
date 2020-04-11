@@ -1,2 +1,2 @@
 Number of residues
-pdbidOfResidue	residOfResidue	chainOFResidue BuriedFractionOFResidue rHPyOfResidue
+pdbidOfResidue	chainOfResidue	residOFResidue BuriedFractionOFResidue rHPyOfResidue
