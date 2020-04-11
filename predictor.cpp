@@ -171,7 +171,7 @@ int main()
 	cin>>n;
 	freopen("Results","w",stdout);
 	
-	cout<<"pdbid"<<"	"<<"resid"<<"	"<<"chain"<<"		"<<"DISU"<<"	 "<<"MB"<<"		"<<"Thiother"<<"	"<<"Sulphenylation"<<endl;
+	cout<<"pdbid"<<"	"<<"chain"<<"	"<<"resid"<<"		"<<"DISU"<<"	 "<<"MB"<<"		"<<"Thiother"<<"	"<<"Sulphenylation"<<endl;
 	if(option==1)
 	{	while(n--)
 		{	{	string pdbid,chain,resid;
